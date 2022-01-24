@@ -11321,7 +11321,7 @@ video.bg-video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("./assets/img/bg-mobile-fallback.jpg") #009acf no-repeat center center scroll;
+    background: url("./assets/img/lugo-2021.jpg") #009acf no-repeat center center scroll;
     background-size: cover;
   }
 

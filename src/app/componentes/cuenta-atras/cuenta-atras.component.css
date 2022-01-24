@@ -59,3 +59,10 @@ ul {
 .unidades-dias {
   font-size: 1rem !important;
 }
+
+@media (max-width: 450px) {
+  .time-countdown {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+}

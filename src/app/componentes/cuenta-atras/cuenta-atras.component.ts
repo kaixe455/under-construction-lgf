@@ -27,7 +27,7 @@ export class CuentaAtrasComponent implements OnInit {
 
     this.clock = this.source.subscribe(t => {
       this.now = new Date();
-      this.end = new Date('05/30/2022 00:00');
+      this.end = new Date('04/23/2022 09:00');
       this.showDate();
     });
 
